@@ -1,1 +1,1 @@
-print(float(input('введите число')) ** float(input('введите степень числа')))
+print(float(input('введите число\n')) ** float(input('введите степень числа\n')))
